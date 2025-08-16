@@ -2,7 +2,8 @@
 PhishMeNot 🎣🚫
 AI-Powered Phishing Detection Tool
 A comprehensive web application that analyzes emails for phishing threats using pattern recognition and risk assessment algorithms.
-🔗 Live Demo: phishmenot.netlify.app
+🔗 Live Demo: 🔗 **Live Demo:** [phishmenot.netlify.app](https://phishmenot.netlify.app)
+
 
 🚀 Features
 
@@ -57,7 +58,8 @@ const riskLevel = riskScore > 70 ? 'HIGH' :
                   riskScore > 30 ? 'MEDIUM' : 'LOW';
 
 
-Visit the live demo - https://phishmenot.netlify.app/
+Visit the live demo - 🔗 **Live Demo:** [phishmenot.netlify.app](https://phishmenot.netlify.app)
+
 Paste a suspicious email in the analyzer
 Review the risk assessment and recommendations
 
